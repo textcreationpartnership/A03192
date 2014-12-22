@@ -37,9 +37,41 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A curtaine lecture as it is read by a countrey farmers wife to her good man. By a countrey gentlewom
+A Curtaine Lecture.When Wiues, preach 'tis not in the Husbands, powerTo haue their Lectures end with
+1. To the generous Reader,
+but especially to
+Bachelours and
+Virgins.
+
+1. The Contents of the book
+comprised in these following
+Chapters.
+
 #####Body#####
-A curtaine lecture as it is read by a countrey farmers wife to her good man. By a countrey gentlewom
+
+1. A CURTAINE
+LECTURE.
+
+1. CHAP. II.
+
+1. CHAP. III.
+
+1. CHAP. IV.
+
+1. CHAP. V.
+
+1. CHAP. VI.
+
+1. CHAP. VII.
+
+1. CHAP. VIII.
+
+1. CHAP. IX.
+
+1. CHAP. X.
+
+1. CHAP. XI.
+
 **Types of content**
 
   * There are 106 **verse** lines!
